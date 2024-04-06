@@ -1,5 +1,3 @@
-const SHAPES = require('./lib/shapes.js') 
+const index = require('./lib/shapes.js');
 
-const shapes = new SHAPES();
-
-shapes.draw();
+module.exports = index;
