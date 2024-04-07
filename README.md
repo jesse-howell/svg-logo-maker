@@ -18,7 +18,7 @@ This project is supposed to generate an SVG image as an output to a prompt. I bu
 
 ## Usage
 
-[![svg-demo-video](./assets/circle.svg "svg-logo-generator")](./assets/svg-logo-generator.mov)
+[![svg-demo-video](./Assets/circle.svg "svg-logo-generator")](./Assets/svg-logo-generator.mov)
 
 Click the image above to see a demo.
 
